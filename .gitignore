@@ -13,9 +13,12 @@ build/
 .gradle/
 gradle-app.setting
 !gradle-wrapper.jar
-build/
 
 local.properties
+
+
+.mvn/
+mvnw*
 
 ##----------idea----------
 ##----------git rm -r --cached .
