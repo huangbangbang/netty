@@ -16,7 +16,7 @@ gradle-app.setting
 
 local.properties
 
-
+src/test
 .mvn/
 mvnw*
 
